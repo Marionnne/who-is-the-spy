@@ -1,0 +1,1 @@
+// Placeholder: Full React app logic with socket, image upload, and voting will go here.
